@@ -1,4 +1,5 @@
 # MicrosoftTeamsShippingTrackerBot
+The goal is to create a chatbot we can add to a Microsoft Teams 'Team' which would allow ask to ask it to keep track of shipping information and post updates to the chat as the shipping information changes.
 
 # Readings:
 ## How To
